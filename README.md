@@ -48,6 +48,7 @@ If you have any question, contact me: fb.com/deluxe.psk (Lĩnh Phan)
 + password : admin
 
 Bạn có thể thay đổi tài khoản này trên cơ sở dữ liệu tại bảng Admin.
+
 Mọi thắc mắc có thể liên hệ: fb.com/deluxe.psk (Lĩnh Phan)
 
 ------------------------- Code by LinhPhan ------------------------
