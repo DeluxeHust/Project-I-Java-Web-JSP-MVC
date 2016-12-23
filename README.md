@@ -1,6 +1,6 @@
 -------------------------------------------------------------------
 To run this Project:
-- add these libraries (I've added it to the folder /library ) : 
+- add these libraries (I've put them into folder /library ) : 
  + commons-fileupload-1.3.jar
  + commons-io-2.5.jar
  + dsn.jar
@@ -20,7 +20,7 @@ To run this Project:
 + username: admin
 + password: admin 
 
-You can change this acc in your database, in Admin table .
+You can change this acc in your database, at Admin table .
 
 If you have any question, contact me: fb.com/deluxe.psk (Lĩnh Phan)
 
