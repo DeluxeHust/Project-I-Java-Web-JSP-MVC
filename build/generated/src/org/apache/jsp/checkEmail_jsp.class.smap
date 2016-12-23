@@ -1,0 +1,16 @@
+SMAP
+checkEmail_jsp.java
+JSP
+*S JSP
+*F
++ 0 checkEmail.jsp
+checkEmail.jsp
+*L
+5,9:44
+14,2:53,3
+16:59
+17,2:60,3
+19,6:66
+25:72,3
+26,27:75
+*E
