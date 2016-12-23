@@ -1,6 +1,4 @@
-# Project-I-Java-Web-JSP-MVC
-
-------------------------------------------------------------
+-------------------------------------------------------------------
 To run this Project:
 - add these libraries (I've added it to the folder /library ) : 
  + commons-fileupload-1.3.jar
@@ -23,7 +21,11 @@ To run this Project:
 + password: admin 
 
 You can change this acc in your database, in Admin table .
--------------------------------------------------------------
+
+If you have any question, contact me: fb.com/deluxe.psk (Lĩnh Phan)
+
+------------------------- Code by LinhPhan ------------------------
+-------------------------------------------------------------------
 
 Để chạy project:
 - Thêm các thư viện sau (các thư viện này tôi đã cho sẵn ở thư mục /library)
@@ -47,4 +49,5 @@ You can change this acc in your database, in Admin table .
 
 Bạn có thể thay đổi tài khoản này trên cơ sở dữ liệu tại bảng Admin.
 
-----------------------------------------------------------------------
+------------------------- Code by LinhPhan ------------------------
+-------------------------------------------------------------------
