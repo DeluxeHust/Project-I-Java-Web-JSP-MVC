@@ -1,3 +1,7 @@
+Java-Web-JSP-MVC
+============================
+
+Intro:
 -------------------------------------------------------------------
 To run this Project:
 - add these libraries (I've put them into folder /library ) : 
@@ -23,6 +27,8 @@ To run this Project:
 You can change this acc in your database, at Admin table .
 
 If you have any question, contact me: fb.com/deluxe.psk (Lĩnh Phan)
+
+Video demo: https://www.youtube.com/watch?v=P-lsuW9vm0k
 
 ------------------------- Code by LinhPhan ------------------------
 -------------------------------------------------------------------
@@ -50,6 +56,8 @@ If you have any question, contact me: fb.com/deluxe.psk (Lĩnh Phan)
 Bạn có thể thay đổi tài khoản này trên cơ sở dữ liệu tại bảng Admin.
 
 Mọi thắc mắc có thể liên hệ: fb.com/deluxe.psk (Lĩnh Phan)
+
+Video demo: https://www.youtube.com/watch?v=P-lsuW9vm0k
 
 ------------------------- Code by LinhPhan ------------------------
 -------------------------------------------------------------------
