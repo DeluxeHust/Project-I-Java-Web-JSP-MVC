@@ -26,7 +26,7 @@ To run this Project:
 
 You can change this acc in your database, at Admin table .
 
-If you have any question, contact me: fb.com/deluxe.psk (Lĩnh Phan)
+If you have any question, contact me: fb.com/linhpph (Lĩnh Phan)
 
 Video demo: https://www.youtube.com/watch?v=P-lsuW9vm0k
 
@@ -55,7 +55,7 @@ Video demo: https://www.youtube.com/watch?v=P-lsuW9vm0k
 
 Bạn có thể thay đổi tài khoản này trên cơ sở dữ liệu tại bảng Admin.
 
-Mọi thắc mắc có thể liên hệ: fb.com/deluxe.psk (Lĩnh Phan)
+Mọi thắc mắc có thể liên hệ: fb.com/linhpph (Lĩnh Phan)
 
 Video demo: https://www.youtube.com/watch?v=P-lsuW9vm0k
 
